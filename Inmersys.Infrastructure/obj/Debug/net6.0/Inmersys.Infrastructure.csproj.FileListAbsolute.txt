@@ -1,0 +1,17 @@
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\bin\Debug\net6.0\Inmersys.Infrastructure.deps.json
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\bin\Debug\net6.0\Inmersys.Infrastructure.dll
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\bin\Debug\net6.0\Inmersys.Infrastructure.pdb
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\obj\Debug\net6.0\Inmersys.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\obj\Debug\net6.0\Inmersys.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\obj\Debug\net6.0\Inmersys.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\obj\Debug\net6.0\Inmersys.Infrastructure.AssemblyInfo.cs
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\obj\Debug\net6.0\Inmersys.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\obj\Debug\net6.0\Inmersys.Infrastructure.dll
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\obj\Debug\net6.0\refint\Inmersys.Infrastructure.dll
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\obj\Debug\net6.0\Inmersys.Infrastructure.pdb
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\obj\Debug\net6.0\ref\Inmersys.Infrastructure.dll
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\bin\Debug\net6.0\Inmersys.Infrastructure.runtimeconfig.json
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\bin\Debug\net6.0\Inmersys.Domain.dll
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\bin\Debug\net6.0\Inmersys.Domain.pdb
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\obj\Debug\net6.0\Inmersys.Infrastructure.csproj.CopyComplete
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Infrastructure\obj\Debug\net6.0\Inmersys.Infrastructure.genruntimeconfig.cache

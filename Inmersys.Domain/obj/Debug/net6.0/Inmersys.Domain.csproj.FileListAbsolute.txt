@@ -1,0 +1,14 @@
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\bin\Debug\net6.0\Inmersys.Domain.deps.json
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\bin\Debug\net6.0\Inmersys.Domain.runtimeconfig.json
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\bin\Debug\net6.0\Inmersys.Domain.dll
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\bin\Debug\net6.0\Inmersys.Domain.pdb
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\obj\Debug\net6.0\Inmersys.Domain.csproj.AssemblyReference.cache
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\obj\Debug\net6.0\Inmersys.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\obj\Debug\net6.0\Inmersys.Domain.AssemblyInfoInputs.cache
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\obj\Debug\net6.0\Inmersys.Domain.AssemblyInfo.cs
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\obj\Debug\net6.0\Inmersys.Domain.csproj.CoreCompileInputs.cache
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\obj\Debug\net6.0\Inmersys.Domain.dll
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\obj\Debug\net6.0\refint\Inmersys.Domain.dll
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\obj\Debug\net6.0\Inmersys.Domain.pdb
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\obj\Debug\net6.0\Inmersys.Domain.genruntimeconfig.cache
+C:\Users\THINKCENTRE\Desktop\Proyecto final 100% real no fake\CRM_WS\Inmersys.Domain\obj\Debug\net6.0\ref\Inmersys.Domain.dll
